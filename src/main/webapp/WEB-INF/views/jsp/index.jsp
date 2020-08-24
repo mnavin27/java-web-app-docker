@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2020</p>
+		<p>&copy; Navin Technologies 2020</p>
 	</footer>
 </div>
 
